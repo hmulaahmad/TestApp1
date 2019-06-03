@@ -19,7 +19,7 @@ namespace TestApp1
         /// <summary>
         /// MEssage ausgeben
         /// </summary>
-        /// <param name="sender"></param>
+        /// <param name="sender">schaltfläche</param>
         /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
