@@ -1,2 +1,2 @@
-Login 4444 local
-char
+Login 4
+char pênc shesh
